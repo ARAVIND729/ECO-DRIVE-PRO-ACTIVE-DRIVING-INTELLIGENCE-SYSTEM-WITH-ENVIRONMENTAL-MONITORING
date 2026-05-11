@@ -28,6 +28,7 @@ Communication Flow
 Wi-Fi communication between ESP32 and ThingSpeak cloud
 RF communication between transmitter and receiver modules
 Local sensor-to-controller communication through ADC and digital GPIO interfaces
+
 4️⃣ Hardware Used
 ESP32 Dev Kit V1: Main processing and communication controller with Wi-Fi support.
 
@@ -65,6 +66,7 @@ Live video streaming using ESP32-CAM
 Crash/event detection using MEMS sensor
 Voltage and current monitoring for battery analysis
 Basic predictive maintenance functionality
+
 7️⃣ Machine Learning Section
 Crash Detection Model: A MEMS-based adaptive threshold model is used to classify:
 Normal condition
